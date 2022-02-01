@@ -7,3 +7,4 @@
 🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman, GitHub, Zoom, Slack, Trello <br>
 📚 Libraries: Redux.js, SuperTest, Knex.js, Less.js, Yup <br>
 ⚡ Fun fact: I am quite good at wakeboarding and I can drive a boat! <br>
+Let's connect kseniya.platonava@gmail.com
